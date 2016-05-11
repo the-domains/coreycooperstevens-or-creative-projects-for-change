@@ -2,6 +2,7 @@ name: 'CoreyCooperStevens | Creative Projects For Change '
 favicon: null
 layout_spectrum: 0.9414212459232658
 typography_spectrum: 0.6588001851923764
+title: 'CoreyCooperStevens | Creative Projects For Change '
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.39085720432922244
-  lightness: 0.27674576942808926
-  saturation: 0.6107111140154302
-  rhythmicContrast: 0.042465316597372293
+    - '#242221'
+    - '#693348'
+    - '#b13037'
+    - '#a68283'
+    - '#ffffc6'
+  brandStrength: 0.625
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
