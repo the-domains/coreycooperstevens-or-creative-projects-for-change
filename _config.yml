@@ -1,7 +1,7 @@
-name: 'CoreyCooperStevens | Creative Projects For Change '
+name: 'CoreyCooperStevens '
 favicon: null
 layout_spectrum: 0.9414212459232658
-typography_spectrum: 0.6588001851923764
+typography_spectrum: 0.85665
 title: CoreyCooperStevens
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b13037'
     - '#a68283'
     - '#ffffc6'
-  brandStrength: 0.625
-  lightness: 0.25
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  brandStrength: 0.8125
+  lightness: 0.4375
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
